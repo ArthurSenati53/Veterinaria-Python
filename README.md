@@ -6,13 +6,9 @@ Esta es una aplicación CRUD de python dirigido a una veterinaria
 
 *[LinkedIn](www.linkedin.com/in/arthurpalomino)
 
-## Ver ejemplo en vivo
-
--[https://arthursenati53.github.io/mi-portafolio/](https://arthursenati53.github.io/mi-portafolio/)
-
 ## Instalacion
 
-Este proyecto no nesesita una instalacion previa. Simplemente habre la carpeta
+Este proyecto no nesesita una instalacion previa. Solo nesesita crear una base de datos
 
 ## Contratacion
 
